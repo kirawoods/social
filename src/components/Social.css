@@ -1,0 +1,83 @@
+.Social {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.social-section {
+  width: 46%;
+  height: 300px;
+  background-color: turquoise;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.social-section-header {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.event-section {
+  text-align: left;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.event-header {
+  font-weight: 500;
+}
+
+.message-section {
+  text-align: left;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  display: flex;
+}
+
+.sender {
+  font-weight: 500;
+}
+
+.service {
+  font-size: 10px;
+}
+
+.reply-button {
+  margin: 0 0 0 auto;
+  border: none;
+  background-color: turquoise;
+  border-radius: 5px;
+}
+
+.activity-section {
+  text-align: left;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  display: flex;
+}
+
+.plan-button {
+  margin: 0 0 0 auto;
+  border: none;
+  background-color: turquoise;
+  border-radius: 5px;
+}
+.reach-out-section {
+  text-align: left;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  display: flex;
+}
+
+.contact {
+  font-weight: 500;
+  padding-right: 10px;
+}
